@@ -5,6 +5,6 @@ public class HelloGit {
 
         System.out.println("git...");
         System.out.println("2222");
-
+        System.out.println("2222");
     }
 }
